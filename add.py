@@ -1,4 +1,4 @@
-a=10
-b=20
-c=a+b
+def addtition(a,b):
+    return a+b
+d=addition(a,b)
 print(c)
